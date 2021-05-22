@@ -1,0 +1,48 @@
+body{
+    background-color:  hsl(233, 47%, 7%);
+}
+
+div{
+    background-color: hsl(244, 38%, 16%);
+    width: 400px;
+    height: 300px;
+position: absolute;
+left: 250px;
+top: 150px;
+padding: 30px;
+border-bottom-left-radius: 20px;
+border-top-left-radius:20px ;
+}
+img{
+    width: 400px;
+    height: 360px;
+    position: absolute;
+    left: 690px;
+    top: 150px;
+    border-bottom-right-radius: 20px;
+    border-top-right-radius:20px ;
+    
+
+}
+tbody{
+    color: hsla(0, 0%, 100%, 0.75);
+
+}
+
+
+h1{
+    color: white;
+}
+p{
+    color: hsla(0, 0%, 100%, 0.75);
+}
+thead{
+    color: white;
+  
+}
+table{
+    margin-left: 100px;
+}
+span{
+    color: hsl(277, 64%, 61%) ;
+}
